@@ -1,3 +1,4 @@
 functions for version of 1 add
 function for version of 2 update
 used differ comand
+function for version 4
