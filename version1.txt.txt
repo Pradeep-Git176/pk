@@ -1,1 +1,2 @@
 This is version control system of my software 1
+updated to version 2
